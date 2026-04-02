@@ -1,6 +1,0 @@
-[
-  {"market": "KOR", "code": "005930", "name": "삼성전자", "enabled": true},
-  {"market": "KOR", "code": "000660", "name": "SK하이닉스", "enabled": true},
-  {"market": "US", "code": "NVDA", "name": "NVIDIA", "enabled": true},
-  {"market": "US", "code": "TSLA", "name": "Tesla", "enabled": true}
-]
